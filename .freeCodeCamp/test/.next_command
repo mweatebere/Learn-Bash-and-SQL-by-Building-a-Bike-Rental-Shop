@@ -9,3 +9,4 @@
 ./bike-shop.sh
 ./bike-shop.sh
 ./bike-shop.sh
+[[ a =~ [0-9] ]]
